@@ -1,0 +1,30 @@
+.footer {
+    overflow: hidden;
+    position: sticky;
+    top: 100%;
+    background-color: rgb(175, 223, 205);
+    padding: 20px 10px;
+}
+
+h1{
+    font-size: bold;
+    color:rgb(59, 34, 3);
+    font-size: 28px;
+}
+
+p{
+    color: rgb(10, 10, 10);
+    font-size: 15px;
+}
+
+
+i {
+    padding: 0px 10px;
+    position: relative;
+}
+
+a {
+    padding: 5px;
+    position:relative;
+ 
+}

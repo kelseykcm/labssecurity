@@ -1,0 +1,57 @@
+.banner{
+    background-image: url(/../assets/img/Binarios.png);
+    height: 300px;
+    background-position: center top;
+    background-size: cover;
+}
+
+.banner h1{
+    color: rgb(40, 219, 165);
+    font-size: 70px;
+    font-weight: bold;
+    top: 15%;
+    left: 40%;
+    position: absolute;
+}
+
+.content{
+    top : 22%;
+    left:  25%;
+    position: absolute;
+}
+
+.content h1{
+    color: rgb(255, 255, 255);
+    font-size: 120px;
+    font-weight: bold;
+}
+
+.content a{
+    text-decoration: none;
+    background-color: aquamarine;
+    color: aqua;
+    padding: 16px 20px;
+    border-radius: 8px;
+    font-weight: bold;
+}
+
+.box {
+    background-color: rgb(175, 223, 205);
+    padding: 20px 20px;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.box h1{
+    font-size: 50px;
+    font-weight: bold;
+    color: black;
+
+}
+
+.box p{
+    font-size: 20px;
+    font-style: italic;
+    color: black
+
+}
